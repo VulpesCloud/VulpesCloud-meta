@@ -15,16 +15,6 @@
         ]
       },
       {
-        "name": "Waterfall",
-        "versionType": "PROXY",
-        "versions": [
-          {
-            "version": "1.21",
-            "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/579/downloads/waterfall-1.21-579.jar"
-          }
-        ]
-      },
-      {
         "name": "Paper",
         "versionType": "SERVER",
         "versions": [

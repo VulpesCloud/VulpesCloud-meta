@@ -117,6 +117,10 @@
         "versionType": "SERVER",
         "versions": [
           {
+            "version": "1.21.4",
+            "link": "https://api.purpurmc.org/v2/purpur/1.21.4/latest/download"
+          },
+          {
             "version": "1.21.1",
             "link": "https://api.purpurmc.org/v2/purpur/1.21.1/latest/download"
           },

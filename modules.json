@@ -2,8 +2,8 @@
     "modules": [
         {
             "name": "VulpesCloud-Proxy-Module",
-            "version": "1.0.1",
-            "installUrl": "https://github.com/VulpesCloud/VulpesCloud-Proxy-Module/releases/download/1.0.1/VulpesCloud-Proxy-Module.jar",
+            "version": "1.0.2",
+            "installUrl": "https://github.com/VulpesCloud/VulpesCloud-Proxy-Module/releases/download/1.0.2/VulpesCloud-Proxy-Module.jar",
             "authors": [
                 "TheCGuy"
             ],

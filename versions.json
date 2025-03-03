@@ -15,6 +15,10 @@
         "versionType": "SERVER",
         "versions": [
           {
+            "version": "1.21.4",
+            "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/187/downloads/paper-1.21.4-187.jar"
+          },
+          {
             "version": "1.21.1",
             "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/123/downloads/paper-1.21.1-123.jar"
           },

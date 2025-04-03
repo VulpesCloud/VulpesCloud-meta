@@ -1,0 +1,136 @@
+{
+    "dependencys": [
+        {
+            "group": "com.google.code.gson",
+            "artifact": "gson",
+            "version": "2.12.1",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.jline",
+            "artifact": "jline",
+            "version": "3.29.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.jetbrains.kotlin",
+            "artifact": "kotlin-stdlib",
+            "version": "2.1.20",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.json",
+            "artifact": "json",
+            "version": "20250107",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "redis.clients",
+            "artifact": "jedis",
+            "version": "5.2.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.slf4j",
+            "artifact": "slf4j-api",
+            "version": "2.0.17",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "ch.qos.logback",
+            "artifact": "logback-core",
+            "version": "1.5.18",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "ch.qos.logback",
+            "artifact": "logback-classic",
+            "version": "1.5.18",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "com.zaxxer",
+            "artifact": "HikariCP",
+            "version": "6.3.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.mariadb.jdbc",
+            "artifact": "mariadb-java-client",
+            "version": "3.5.3",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.incendo",
+            "artifact": "cloud-core",
+            "version": "2.0.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.incendo",
+            "artifact": "cloud-kotlin-extensions",
+            "version": "2.0.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.incendo",
+            "artifact": "cloud-annotations",
+            "version": "2.0.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.incendo",
+            "artifact": "cloud-kotlin-coroutines",
+            "version": "2.0.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.incendo",
+            "artifact": "cloud-kotlin-coroutines-annotations",
+            "version": "2.0.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "com.electronwill.night-config",
+            "artifact": "json",
+            "version": "3.8.1",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "com.electronwill.night-config",
+            "artifact": "yaml",
+            "version": "3.8.1",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "com.electronwill.night-config",
+            "artifact": "toml",
+            "version": "3.8.1",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "com.electronwill.night-config",
+            "artifact": "core",
+            "version": "3.8.1",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.jetbrains.exposed",
+            "artifact": "exposed-core",
+            "version": "0.60.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.jetbrains.exposed",
+            "artifact": "exposed-jdbc",
+            "version": "0.60.0",
+            "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.yaml",
+            "artifact": "snakeyaml",
+            "version": "2.3",
+            "location": "MAVEN_CENTRAL"
+        }
+    ]
+}

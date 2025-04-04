@@ -137,6 +137,6 @@
             "artifact": "koin-core",
             "version": "4.1.0-Beta6",
             "location": "MAVEN_CENTRAL"
-        },
+        }
     ]
 }

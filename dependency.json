@@ -131,6 +131,12 @@
             "artifact": "snakeyaml",
             "version": "2.3",
             "location": "MAVEN_CENTRAL"
-        }
+        },
+        {
+            "group": "io.insert-koin",
+            "artifact": "koin-core",
+            "version": "4.1.0-Beta6",
+            "location": "MAVEN_CENTRAL"
+        },
     ]
 }

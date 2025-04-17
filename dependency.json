@@ -137,6 +137,12 @@
             "artifact": "koin-core",
             "version": "4.1.0-Beta6",
             "location": "MAVEN_CENTRAL"
+        },
+        {
+            "group": "org.jetbrains.kotlinx",
+            "artifact": "kotlinx-serialization-json",
+            "version": "1.8.1",
+            "location": "MAVEN_CENTRAL"
         }
     ]
 }

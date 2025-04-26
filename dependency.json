@@ -135,7 +135,7 @@
         {
             "group": "io.insert-koin",
             "artifact": "koin-core",
-            "version": "4.1.0-Beta6",
+            "version": "4.0.4",
             "location": "MAVEN_CENTRAL"
         },
         {

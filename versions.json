@@ -152,6 +152,17 @@
           "url": "https://api.purpurmc.org/v2/purpur/1.20/latest/download"
         }
       ]
+    },
+    {
+      "name": "Minestom",
+      "type": "SERVER",
+      "pluginDir": "",
+      "versions": [
+        {
+          "version": "CUSTOM",
+          "url": ""
+        }
+      ]
     }
   ]
 }

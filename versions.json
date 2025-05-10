@@ -175,6 +175,21 @@
           "url": ""
         }
       ]
+    },
+    {
+        "name": "Leaf",
+        "type": "SERVER",
+        "pluginDir": "plugins",
+        "versions": [
+            {
+                "version": "1.21.4",
+                "url": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-381.jar"
+            },
+            {
+                "version": "CUSTOM",
+                "url": ""
+            }
+        ]
     }
   ]
 }

@@ -9,7 +9,7 @@
             ],
             "description": "Adds Proxy essentials to VulpesCloud Proxy's",
             "website": "https://vulpescloud.de",
-            "supportUrl": "https://dc.vulpescloud.de"
+            "supportURL": "https://dc.vulpescloud.de"
         }
     ]
 }

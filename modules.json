@@ -10,6 +10,17 @@
             "description": "Adds Proxy essentials to VulpesCloud Proxy's",
             "website": "https://vulpescloud.de",
             "supportURL": "https://dc.vulpescloud.de"
+        },
+        {
+            "name": "VulpesCloud-Metrics-Module",
+            "version": "1.0.0",
+            "installURL": "https://jenkins.vulpescloud.de/job/VulpesCloud-Modules/job/VulpesCloud-Metrics-Module/lastSuccessfulBuild/artifact/build/libs/VulpesCloud-Metrics-Module-1.0.0-all.jar",
+            "authors": [
+                "TheCGuy"
+            ],
+            "description": "Stores metrics data in a database.",
+            "website": "https://vulpescloud.de",
+            "supportURL": "https://dc.vulpescloud.de"
         }
     ]
 }

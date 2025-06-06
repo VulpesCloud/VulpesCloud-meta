@@ -9,13 +9,13 @@
         {
             "group": "org.jline",
             "artifact": "jline",
-            "version": "3.29.0",
+            "version": "3.30.4",
             "location": "MAVEN_CENTRAL"
         },
         {
             "group": "org.jetbrains.kotlin",
             "artifact": "kotlin-stdlib",
-            "version": "2.1.20",
+            "version": "2.1.21",
             "location": "MAVEN_CENTRAL"
         },
         {
@@ -117,13 +117,13 @@
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-core",
-            "version": "0.60.0",
+            "version": "0.61.0",
             "location": "MAVEN_CENTRAL"
         },
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-jdbc",
-            "version": "0.60.0",
+            "version": "0.61.0",
             "location": "MAVEN_CENTRAL"
         },
         {
@@ -135,7 +135,7 @@
         {
             "group": "io.insert-koin",
             "artifact": "koin-core",
-            "version": "4.0.4",
+            "version": "4.1.0-RC1",
             "location": "MAVEN_CENTRAL"
         },
         {

@@ -117,13 +117,13 @@
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-core",
-            "version": "0.61.0",
+            "version": "1.0.0-beta-2",
             "location": "MAVEN_CENTRAL"
         },
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-jdbc",
-            "version": "0.61.0",
+            "version": "1.0.0-beta-2",
             "location": "MAVEN_CENTRAL"
         },
         {

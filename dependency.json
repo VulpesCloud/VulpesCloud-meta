@@ -117,7 +117,7 @@
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-core",
-            "version": "1.0.0-beta-2",
+            "version": "1.0.0-beta-3",
             "location": "MAVEN_CENTRAL"
         },
         {

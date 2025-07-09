@@ -21,7 +21,7 @@
         {
             "group": "org.json",
             "artifact": "json",
-            "version": "20250107",
+            "version": "20250517",
             "location": "MAVEN_CENTRAL"
         },
         {
@@ -57,7 +57,7 @@
         {
             "group": "org.mariadb.jdbc",
             "artifact": "mariadb-java-client",
-            "version": "3.5.3",
+            "version": "3.5.4",
             "location": "MAVEN_CENTRAL"
         },
         {
@@ -117,13 +117,13 @@
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-core",
-            "version": "1.0.0-beta-3",
+            "version": "1.0.0-beta-4",
             "location": "MAVEN_CENTRAL"
         },
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-jdbc",
-            "version": "1.0.0-beta-3",
+            "version": "1.0.0-beta-4",
             "location": "MAVEN_CENTRAL"
         },
         {
@@ -135,7 +135,7 @@
         {
             "group": "io.insert-koin",
             "artifact": "koin-core",
-            "version": "4.1.0-RC1",
+            "version": "4.1.0",
             "location": "MAVEN_CENTRAL"
         },
         {

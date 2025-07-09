@@ -123,7 +123,7 @@
         {
             "group": "org.jetbrains.exposed",
             "artifact": "exposed-jdbc",
-            "version": "1.0.0-beta-4",
+            "version": "1.0.0-beta-3",
             "location": "MAVEN_CENTRAL"
         },
         {

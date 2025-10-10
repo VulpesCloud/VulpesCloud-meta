@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "3.4.0-SNAPSHOT",
-          "url": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/514/downloads/velocity-3.4.0-SNAPSHOT-514.jar"
+          "url": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/542/downloads/velocity-3.4.0-SNAPSHOT-542.jar"
         },
         {
           "version": "CUSTOM",
@@ -20,6 +20,10 @@
       "type": "SERVER",
       "pluginDir": "plugins",
       "versions": [
+        {
+          "version": "1.21.8",
+          "url": "https://fill-data.papermc.io/v1/objects/8de7c52c3b02403503d16fac58003f1efef7dd7a0256786843927fa92ee57f1e/paper-1.21.8-60.jar"
+        },
         {
           "version": "1.21.4",
           "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/224/downloads/paper-1.21.4-224.jar"
@@ -127,6 +131,10 @@
       "type": "SERVER",
       "pluginDir": "plugins",
       "versions": [
+        {
+          "version": "1.21.8",
+          "url": "https://api.purpurmc.org/v2/purpur/1.21.8/2497/download"
+        },
         {
           "version": "1.21.4",
           "url": "https://api.purpurmc.org/v2/purpur/1.21.4/latest/download"

@@ -1,5 +1,4 @@
-{
-    "modules": [
+[
         {
             "name": "VulpesCloud-Proxy-Module",
             "version": "2.1.0",
@@ -23,4 +22,3 @@
             "supportURL": "https://dc.vulpescloud.de"
         }
     ]
-}

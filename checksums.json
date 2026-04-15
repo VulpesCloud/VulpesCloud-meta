@@ -1,0 +1,8 @@
+{
+    "vulpescloud-bridge": "12aa3d74e730e913e543a3cccc4b994a8b6ce17d377b1b95b339a8930909a0e5",
+    "vulpescloud-node": "28db3acde5bdad3921559db65565f704b098dd640dbc53b3c9b6bc7d1c11e544",
+    "vulpescloud-wrapper": "c672b0a108290e76115c5ed724e7d7345aaee6c9ca18ed116b7bdb4fa873607f",
+    "vulpescloud-launcher": "2c2445cd351812201d3dde87a3737efa2a239565dc9a919a2eef60d76b0496be",
+    "vulpescloud-api": "4c33d63c84c30fd3f7393a70846bdf4da68bbc622f6e83d43e7eab35fc27ec8b",
+    "vulpescloud-connector": "4cc82e69d1963a6dcaccb19fda310ded1c368d80fe6a03b5790cf8002a17defb"
+}

@@ -12,13 +12,13 @@
             "supportURL": "https://dc.vulpescloud.de"
         },
         {
-            "name": "VulpesCloud-Metrics-Module",
-            "version": "1.0.0",
-            "installURL": "https://jenkins.vulpescloud.de/job/VulpesCloud-Modules/job/VulpesCloud-Metrics-Module/lastSuccessfulBuild/artifact/build/libs/VulpesCloud-Metrics-Module-1.0.0-all.jar",
+            "name": "VulpesCloud-Notify-Module",
+            "version": "2.1.0",
+            "installURL": "https://github.com/VulpesCloud/VulpesCloud-Notify-Module/releases/download/2.1.0/VulpesCloud-Notify-Module.jar",
             "authors": [
                 "TheCGuy"
             ],
-            "description": "Stores metrics data in a database.",
+            "description": "N/A",
             "website": "https://vulpescloud.de",
             "supportURL": "https://dc.vulpescloud.de"
         }

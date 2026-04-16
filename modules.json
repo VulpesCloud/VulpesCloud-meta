@@ -12,7 +12,7 @@
         },
         {
             "name": "VulpesCloud-Notify-Module",
-            "version": "2.1.1",
+            "version": "2.1.0",
             "installURL": "https://github.com/VulpesCloud/VulpesCloud-Notify-Module/releases/download/2.1.0/VulpesCloud-Notify-Module.jar",
             "authors": [
                 "TheCGuy"

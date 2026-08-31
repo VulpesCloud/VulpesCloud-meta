@@ -1,8 +1,8 @@
 [
         {
             "name": "VulpesCloud-Proxy-Module",
-            "version": "2.1.0",
-            "installURL": "https://github.com/VulpesCloud/VulpesCloud-Proxy-Module/releases/download/2.1.0/VulpesCloud-Proxy-Module.jar",
+            "version": "2.2.0",
+            "installURL": "https://github.com/VulpesCloud/VulpesCloud-Proxy-Module/releases/download/2.2.0/VulpesCloud-Proxy-Module.jar",
             "authors": [
                 "TheCGuy"
             ],
@@ -12,8 +12,8 @@
         },
         {
             "name": "VulpesCloud-Notify-Module",
-            "version": "2.1.0",
-            "installURL": "https://github.com/VulpesCloud/VulpesCloud-Notify-Module/releases/download/2.1.0/VulpesCloud-Notify-Module.jar",
+            "version": "2.2.0",
+            "installURL": "https://github.com/VulpesCloud/VulpesCloud-Notify-Module/releases/download/2.2.0/VulpesCloud-Notify-Module.jar",
             "authors": [
                 "TheCGuy"
             ],
